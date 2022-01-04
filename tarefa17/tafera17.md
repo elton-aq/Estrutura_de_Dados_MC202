@@ -1,6 +1,6 @@
 # Tarefa 17 - Definindo capitais
 ## Estrutura
-* grafo dirigido com peso
+* grafo dirigido com peso nas arestas
 ## Enunciado
 
 O enunciado do problema está descrito no seguinte link:
