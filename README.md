@@ -7,7 +7,7 @@ Nessa materia foram discutidos diferentes tipos de estruturas de dados, as quais
 
 obs.: as primeiras tarefas não utilizão de estruturas conplexas pois tem o intuito principal de introduzir a linguagem C.
 
-## Taferas e resoluções
+## Taferas 
 Todas as atividades estão disponibilizadas no link abaixo e suas respectivas resoluções e testes estão nos repositorios com sua numeração indicada. 
 
 + https://www.ic.unicamp.br/~lehilton/cursos/2s2021/mc202e/tarefas/ 
