@@ -1,6 +1,6 @@
 # MC202 - Estruturas de Dados
  
-Materia ministrada no segundo semestre de 2021 pelo docente Rafael Schouery na linguagem.
+Materia ministrada no segundo semestre de 2021 pelo docente Rafael Schouery na linguagem C.
 
 ## Estruturas estudadas
 Nessa materia foram discutidos diferentes tipos de estruturas de dados, as quais incluem arvores binarias (balenceadas e não balanceadas), tabelas de hash, grafos, listas ligadas e suas variações, dentre outras que estão indicadas nos arquivos .md de cada tarefa.
